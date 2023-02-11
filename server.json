@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2023-02-09T12:07:54.021Z"
+    },
+    {
+      "id": 2,
+      "description": "Burger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-02-09T12:07:54.021Z"
+    },
+    {
+      "description": "Aplicativo",
+      "category": "Freela",
+      "price": 1000,
+      "type": "income",
+      "createdAt": "2023-02-11T14:27:01.360Z",
+      "id": 3
+    },
+    {
+      "description": "Melzinho",
+      "category": "Lazer",
+      "price": 20,
+      "type": "outcome",
+      "createdAt": "2023-02-11T14:39:29.502Z",
+      "id": 4
+    }
+  ]
+}
